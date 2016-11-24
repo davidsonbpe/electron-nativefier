@@ -1,9 +1,8 @@
-**
 
-[electron-packager API](#electron-packager%20API)
----------------------
 
-**
+# electron-packager API
+
+
 
 **[Exemplo curto:](#Exemplo%20curto:)**
 
