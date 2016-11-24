@@ -36,6 +36,8 @@ Você deseja criar um app nativo para a Web do WhatsApp (ou qualquer página da 
 **[Instalação](#Instala%C3%A7%C3%A3o):**
 npm install nativefier -g
 
-nativefier --name "APP-NAME" "http://dominio/"
+nativefier --width "350" --height "650" --flash --name "APP-NAME" "http://dominio.com"
+
+**[Link:](#link)**https://github.com/jiahaog/nativefier/blob/development/docs/api.md
 
 **[Link:](#link)** https://github.com/jiahaog/nativefier
