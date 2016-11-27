@@ -41,3 +41,6 @@ nativefier --width "350" --height "650" --flash --name "APP-NAME" "http://domini
 **[Link:](#link)**https://github.com/jiahaog/nativefier/blob/development/docs/api.md
 
 **[Link:](#link)** https://github.com/jiahaog/nativefier
+
+**VEJA ESTE VIDEO TUTORIAL** https://youtu.be/vA0sha-qiyI
+
