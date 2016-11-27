@@ -7,7 +7,7 @@
 **[Exemplo curto:](#Exemplo%20curto:)**
 
 
-electron-packager .\pasta-arquivos-html-css-js \ nome-do-seu-app --platform=win32 --arch=ia32 --version=1.4.7
+electron-packager .\pasta-arquivos-html-css-js \ nome-do-seu-app --platform=win32 --arch=ia32 --version=1.4.8
 
 **[arch](#arch)**
 
