@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/davidsonbpe/electron-nativefier/quick-d/icon.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Coffee">
 
 # Electron Nativefier
 
