@@ -10,7 +10,7 @@ Você deseja criar um app nativo para a Web do WhatsApp (ou qualquer página da 
 [Instalação](#Instalação)
 ----------
 
-Para clonar e executar este repositório, você precisará [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/download/) (que vem com [npm](http://npmjs.com)) instalado em seu computador. Da sua linha de comando:
+Para Executar este repositório, você precisará [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/download/) (que vem com [npm](http://npmjs.com)) instalado em seu computador e sua linha de comando:
 
 Em seguida, instale o Nativefier globalmente com
 
