@@ -1,6 +1,6 @@
 
 
-# electron-Nativefier
+# Electron Nativefier
 
 
 [Nativefier](#Nativefier)
