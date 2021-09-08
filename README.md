@@ -24,16 +24,28 @@ npm install -g nativefier
 Para criar um aplicativo de desktop nativo para medium.com, simplesmente...
 
 ```bash
-nativefier "https://github.com/"
+nativefier "https://davidsonbpe.blogspot.com/"
+
+```
+
+```bash
+nativefier "https://davidsonbpe.blogspot.com/" -p windows -a x64
 
 ```
 
 Nativefier tentará determinar o nome do aplicativo e também muitas outras opções. Se desejar, essas opções podem ser substituídas. Por exemplo, para substituir o nome...
 
 ```bash
-nativefier --name 'My git App' 'https://github.com/' -p windows -a x64
+nativefier --name 'My App Davidsonbpe' 'https://davidsonbpe.blogspot.com/' -p windows -a x64
 
 ```
+
+[Argumentos](#Argumentos)
+----------
+
+Argumento: p, Dado Escolhas: "darwin", "linux", "mac", "mas", "osx", "windows"
+
+Argumento: a, Dado Escolhas: "ia32", "x64", "armv7l", "arm64"
 
 ----------
 
